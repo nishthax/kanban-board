@@ -1,0 +1,59 @@
+
+.card {
+    border: 1px solid #ccc;
+    font-size: smaller;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-header {
+    align-items: right;
+    margin-bottom: 10px;
+  }
+  
+  .card-header-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .tickid, .user-icon{
+    color: #717171;
+    display: inline-block;
+    margin: 5px;
+  }
+  
+  .tag, .priority-symbol{
+    display: inline-block;
+    color: #717171;
+    border: 1px solid rgb(198, 198, 198); 
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+  }
+
+  .tag-ic{
+    margin-right: 5px;
+  }
+
+  .column-cont{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .row-cont{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .status-symbol {
+    margin: 5px;
+    color: #717171;
+  }
+
+  .title{
+    margin: 5px;
+  }
+  

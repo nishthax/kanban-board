@@ -1,0 +1,27 @@
+  .kanban-board {
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    padding: 10px;
+  }
+  
+  /* Column styles */
+  .column {
+    font-size: small;
+    font-family: 'Rubik', sans-serif;
+    flex: 1;
+    background-color: rgb(238, 238, 238);
+    border: 0px solid #ccc;
+    margin: 7px;
+    padding: 10px;
+  }
+
+  .heading-icon{
+    margin-right: 10px;
+    color: #717171;
+  }
+
+  .card-count{
+    margin-left: 10px;
+    color: #717171;
+    font-size: small;
+  }

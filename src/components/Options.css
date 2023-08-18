@@ -1,0 +1,14 @@
+.grouping-options, .sorting-options{
+    padding: 5px;
+    font-family: 'Rubik', sans-serif;
+    color: #515151;
+    font-size: smaller;
+    margin: 5px;
+}
+
+.ops{
+    padding: 5px;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 20px;
+    font-size: smaller;
+}
